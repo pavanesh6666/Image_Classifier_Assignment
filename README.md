@@ -23,3 +23,21 @@ The model is trained on the MNIST dataset, which contains handwritten digit imag
 Install required libraries:
 ```bash
 pip install tensorflow numpy matplotlib
+
+
+## How to Run
+Steps to Run:
+1. Clone the repository
+2. Install dependencies
+   pip install tensorflow numpy matplotlib
+3. Run the notebook:
+   Image_Classifier_Assignment.ipynb
+
+
+
+
+Model Accuracy:
+~99% on test dataset
+
+
+
