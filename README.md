@@ -20,24 +20,40 @@ The model is trained on the MNIST dataset, which contains handwritten digit imag
 - Saves the trained model
 
 ## Installation
+
 Install required libraries:
+
 ```bash
 pip install tensorflow numpy matplotlib
-
+```
 
 ## How to Run
-Steps to Run:
-1. Clone the repository
-2. Install dependencies
-   pip install tensorflow numpy matplotlib
-3. Run the notebook:
-   Image_Classifier_Assignment.ipynb
+
+1. Clone the repository:
+```bash
+git clone https://github.com/pavanesh6666/Image_Classifier_Assignment.git
+```
+
+2. Move into the project folder:
+```bash
+cd Image_Classifier_Assignment
+```
+
+3. Open Jupyter Notebook:
+```bash
+jupyter notebook
+```
+
+4. Open `Image_Classifier_Assignment.ipynb` and run all cells.
+
+## Model Accuracy
+
+- Training Accuracy: ~99%
+- Validation Accuracy: ~99%
+- Model performs well on MNIST handwritten digit dataset.
+- Sample prediction output is shown visually.
 
 
-
-
-Model Accuracy:
-~99% on test dataset
 
 
 
